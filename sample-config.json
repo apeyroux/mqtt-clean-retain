@@ -1,0 +1,9 @@
+{
+    "cfgMqttApiBaseURL": "serveur.mqtt.api",
+    "cfgMqttApiPort": 80,
+    "cfgMqttBaseURL": "serveur.mqtt",
+    "cfgMqttPort": 8883,
+    "cfgMqttApiKey": "1bzKYsbh71ovYC4mrS8uzgVMFFGOlPBn",
+    "cfgMqttLogin": "retain",
+    "cfgMqttPassword": "clean"
+}
